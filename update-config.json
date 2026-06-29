@@ -1,0 +1,8 @@
+﻿{
+  "questionsUrl": "https://raw.githubusercontent.com/gcseer/questions/master/questions.json",
+  "versionUrl": "https://raw.githubusercontent.com/gcseer/questions/master/version.json",
+  "description": "排污许可技能竞赛完整题库（241题）",
+  "lastUpdate": "2026-06-29",
+  "questionCount": 233,
+  "version": "1.2.0"
+}
